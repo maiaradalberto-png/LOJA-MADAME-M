@@ -1,0 +1,25 @@
+{
+  "name": "Catálogo Virtual Madame M",
+  "short_name": "Catálogo Virtual Madame M",
+  "description": "Perfumaria árabe premium. Fragrâncias marcantes, atendimento personalizado.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E1609",
+  "theme_color": "#0C0A08",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
